@@ -1,0 +1,3 @@
+rootProject.name='JetPackStudy'
+include ':app'
+include ':jetpack_app'
